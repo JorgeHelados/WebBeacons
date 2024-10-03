@@ -26,7 +26,7 @@ function App() {
             textAlign: 'center'
         }}>
             <h1 style={{ fontSize: '4rem' }}>
-                Último valor añadido: {ultimoValor}
+                Último valor: {ultimoValor}
             </h1>
         </div>
     );
