@@ -7,7 +7,7 @@ Este es el repositorio del frontend para la aplicación **WebBeacons**, una apli
 
 El código fuente está organizado de la siguiente manera:
 
-```
+``` bash
 ├── node_modules/     # Módulos de Node.js
 ├── public/           # Archivos estáticos y de configuración del frontend
 ├── src/              # Carpeta principal del código fuente
