@@ -72,14 +72,6 @@ Si deseas ejecutar la aplicación en un contenedor Docker, sigue estos pasos:
 
 Esto también abrirá la aplicación en `http://localhost:3000`.
 
-## Pruebas
-
-Este proyecto está configurado para usar **Jest** para realizar pruebas unitarias. Para ejecutar las pruebas, usa el siguiente comando:
-
-```bash
-npm test
-```
-
 ## Autor
 
-Desarrollado y mantenido por **Jorge Satorres Pardo**.
+Desarrollado por **Jorge Satorres Pardo**.
